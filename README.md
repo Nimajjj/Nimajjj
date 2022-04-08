@@ -36,8 +36,8 @@ Tools :
 ### 🔥 Statistics :
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNimajjj&label=VISITORS&countColor=%23263759)
 <p float="left">
-  <img align="center" style="height: 25vh;" src="https://github-readme-stats.vercel.app/api?username=Nimajjj&theme=dark" alt="nimajjj" />
-  <img align="center" style="height: 25vh;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimajjj&show_icons=true&theme=dark&locale=en&layout=compact" alt="nimajjj"/>
+  <img align="center" style="height: 20vh;" src="https://github-readme-stats.vercel.app/api?username=Nimajjj&theme=dark" alt="nimajjj" />
+  <img align="center" style="height: 20vh;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimajjj&show_icons=true&theme=dark&locale=en&layout=compact" alt="nimajjj"/>
 </p>
 
 
