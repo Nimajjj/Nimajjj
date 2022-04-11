@@ -5,7 +5,7 @@
 ### 🦆 About myself :
 I am a 21 french student in computer science. <br/>
 Godot and CPP enthusiast even if I am not even a junior dev :0 <br/>
-Forced to use only vim for 2 months, now soulless.
+Forced to use vim for 2 months, now soulless.
 <br/>
 
 ### 🖥️ Technologies :
