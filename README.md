@@ -13,7 +13,7 @@ I love <3 :
 <div>
   <img src="https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white" alt="Godot Badge"/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" alt="CPP Badge"/>
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="BASH Badge"/>
+  <img src="https://img.shields.io/badge/OpenGl-5381ac.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="OpenGl Badge"/>
 </div>
 
 Scholar usage :
