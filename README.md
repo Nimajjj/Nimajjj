@@ -4,32 +4,37 @@
 
 ### 🦆 About myself :
 I am a 21 french student in computer science. <br/>
-Godot and CPP enthusiast even if I am not even a junior dev :0 <br/>
+Godot and CPP enthusiast.<br/>
 RIP Atom... Always in my hearth <3
 <br/>
 
 ### 🖥️ Technologies :
-I love <3 :
+I love ❤️ :
 <div>
-  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white" alt="Godot Badge"/>
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" alt="CPP Badge"/>
-  <img src="https://img.shields.io/badge/OpenGl-5381ac.svg?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGl Badge"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"/>
 </div>
 
 Scholar usage :
 <div>
-  <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white" alt="GO Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS Badge"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP Badge"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MYSQL Badge"/>
 </div>
 
 Tools :
 <div>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="VSCODE Badge"/>
-  <img src="https://img.shields.io/badge/Atom-66595C.svg?style=for-the-badge&logo=Atom&logoColor=white" alt="ATOM Badge"/>
-  <img src="https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=CLion&logoColor=white" alt="CLION Badge"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </div>
 <br/>
 
