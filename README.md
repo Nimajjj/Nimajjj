@@ -3,9 +3,9 @@
 </h1>
 
 ### 🦆 About myself :
-I am a 21 french student in computer science. <br/>
+I am a 22 french student in computer science. <br/>
 Godot and CPP enthusiast.<br/>
-RIP Atom... Always in my hearth <3
+RIP Atom...
 <br/>
 
 ### 🖥️ Technologies :
